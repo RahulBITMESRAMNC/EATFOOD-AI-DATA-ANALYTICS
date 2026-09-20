@@ -1,0 +1,8 @@
+STORAGE_AWS_EXTERNAL_ID=AP33107_SFCRole=6_5rgB+J/UftTIxB1VVvlifL5xvGU=
+
+STORAGE_AWS_ROLE_ARN=arn:aws:iam::623859664351:role/snowflake-s3-role
+
+STORAGE_AWS_IAM_USER_ARN=arn:aws:iam::968438786357:user/rdu72000-s
+
+STORAGE_ALLOWED_LOCATIONS=s3://zomatodatapipelines/
+

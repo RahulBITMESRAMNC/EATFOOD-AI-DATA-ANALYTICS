@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+DATA/orders.csv
+DATA/order_items.csv
