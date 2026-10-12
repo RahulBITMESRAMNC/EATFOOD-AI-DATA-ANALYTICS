@@ -7,3 +7,5 @@ venv/
 .DS_Store
 DATA/orders.csv
 DATA/order_items.csv
+
+airflow/logs/
